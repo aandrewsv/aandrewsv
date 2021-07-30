@@ -15,9 +15,8 @@ https://github.com/TesTTerOrg/ https://testerapp.cl
 
 ### How to get in contact? 📫 
 
-Reach me anytime on my personal email and feel free to connect or send me a direct message at LinkedIn: 
+Feel free to connect or send me a direct message at LinkedIn:
 
-agustin.andrews@gmail.com
 https://www.linkedin.com/in/aandrewsv
 
 
