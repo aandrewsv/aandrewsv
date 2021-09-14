@@ -1,6 +1,6 @@
 ### Who I am?
 
-👋 Hi, my name is Agustín Andrews and i'm a fullstack developer from Chile. I've just started my programming journey in 2020 and recently finished a Python bootcamp course from CodingDojo a couple months ago. 
+👋 Hi, my name is Agustín Andrews and i'm a fullstack developer from Chile. I've just started my programming journey in late 2020 and recently finished a Python bootcamp course from CodingDojo a couple months ago. 
 
 ### What I'm looking for? 👀
  
@@ -15,8 +15,9 @@ https://github.com/TesTTerOrg/ https://testerapp.cl
 
 ### How to get in contact? 📫 
 
-Feel free to connect or send me a direct message at LinkedIn:
+Feel free to contact me directly on my personal email or LinkedIn:
 
+agustin.andrews@gmail.com
 https://www.linkedin.com/in/aandrewsv
 
 
