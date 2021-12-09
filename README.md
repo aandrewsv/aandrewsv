@@ -3,7 +3,7 @@ Hi 👋, I'm Agustín Andrews, fullstack developer from Chile. I've just started
 
 I'm proud to say i've got a black belt qualification in the Python bootcamp at CodingDojo! ⛩️
 
-### What I am doing right now? 🌱
+### What I am doing right now?
 
 - 🔭 I’m currently working on [TesterApp](https://testerapp.cl)
 
