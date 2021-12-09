@@ -1,10 +1,11 @@
 ### Who I am?
 
-👋 Hi, my name is Agustín Andrews and i'm a fullstack developer from Chile. I've just started my programming journey in late 2020 and recently finished a Python bootcamp course from CodingDojo a couple months ago. 
+👋 Hi, my name is Agustín Andrews and i'm a fullstack developer from Chile. I've just started my programming journey in late 2020 and succesfully finished a Python bootcamp course with a black belt qualification from CodingDojo in May of 2021. 
 
 ### What I'm looking for? 👀
  
-I’m looking for any learning opportunities, tips, comments or anything at all that could improve my programming and web designing skills.
+I love learning, so i’m looking for any learning opportunities; such as questions, tips, comments or anything at all that could improve yours or my own programming and web designing skills.
+Also im always available to discuss business or job opportunities.
 
 ### What I am doing right now? 🌱
 
