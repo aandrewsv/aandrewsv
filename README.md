@@ -12,13 +12,13 @@ I'm a proud bootcamp graduate developer from [CodingDojo](https://www.codingdojo
 
 Here's a list of the technologies I'm most experienced with:
 
-- Frontend systems with React and Vue, preferably with Typescript
-- Relational databases including PostgreSQL and MySQL
-- Object-Relational Mapping (ORM) for backend systems using Django and the power and simplicity of Python
-- Serverless cloud service management or Terraform
-- Progressive Web Applications (PWA) with React and mobile applications with React Native
-- CI/CD with Bitbucket Pipelines and Agile methodologies using the Scrum framework
-- Python scripts with Selenium for browser automated testing
+- 💻 Frontend systems with React and Vue, preferably with Typescript
+- 💾 Relational databases including PostgreSQL and MySQL
+- 🧬 Object-Relational Mapping (ORM) for backend systems using Django and the power and simplicity of Python
+- ☁️ Serverless cloud service management or Terraform
+- 📱 Progressive Web Applications (PWA) with React and mobile applications with React Native
+- ♻️ CI/CD with Bitbucket Pipelines and Agile methodologies using the Scrum framework
+- 🐍 Python scripts with Selenium for browser automated testing
 
 Typically, I deploy my projects to cloud service providers (CSP). While I've had some exposure to Google Cloud Platform, I have more experience with Amazon Web Services. In fact, I obtained the AWS Certified Cloud Practitioner certification and am enthusiastic about furthering my expertise in this area.
 
